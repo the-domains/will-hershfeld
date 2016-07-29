@@ -6,9 +6,10 @@ color:
   saturation: 0.8241727971471846
   rhythmicContrast: 0.6919989089947194
   brandColors:
-    - '#FF5335'
-    - '#B39C85'
-    - '#306E73'
-    - '#3B424D'
-    - '#1D181F'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Will Hershfeld
+title: Welcome
