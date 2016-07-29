@@ -1,4 +1,3 @@
-layout_spectrum: 0.7295458391308784
 typography_spectrum: 0.6462760572321713
 color:
   brandStrength: 0.4623706550337374
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.7295458391308784
 name: Will Hershfeld
 title: Welcome
+description: to my home on the web
